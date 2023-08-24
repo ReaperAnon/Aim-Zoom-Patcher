@@ -1,0 +1,11 @@
+{
+  "Nickname": "AimZoomPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Allows for changing the zoom levels of weapon sights.",
+  "LongDescription": "Allows for changing the zoom levels of reflex and iron sights and those of scopes from the See-Through Scopes mod. Can lower the zoom level on reflex sights or set a desired static value, disable iron sight zoom and more.\r\n\r\nRead the tooltips for detailed information on the options.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "Fallout4"
+  ]
+}
