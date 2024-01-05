@@ -1,3 +1,3 @@
 # Aim Zoom Patcher
 
-### [Support Discord](https://discord.gg/u4zNjc2a)
+### [Support Discord](https://discord.gg/5FaCGrFYM3)
